@@ -1,0 +1,15 @@
+{
+    "name": "u0_a334/printful",
+    "description": "Printful dropshipping ai",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "U0A334\\Printful\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
